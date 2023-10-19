@@ -1,1 +1,42 @@
-
+<html>
+	<head>
+		<title>Perfil de Professores</title>
+		<link rel="stylesheet" href="style_prof.css">
+		 <script type="text/javascript" src="altera_perfil.js"></script>
+	</head>
+	<body>
+		<nav id='menu'>
+			<ul>
+				<li><a href='../Site/Aula31-03.html'>Home</a></li>
+				<li><a href="../Site/Estudantes.html">Alunos</a></li>
+				<li><a href='../Site/Professores.html'>Professor</a></li>
+				<li><a href=''>Entrar</a></li>
+			</ul>
+		</nav>
+    <nav class='menu-lateral'>
+   <form class='botoes'
+<button type='button' id='perfil-jonatas'>Prof. Jonatas </button>
+<button type='button' id='perfil-jonatas'>Prof. Edilene </button>
+<button type='button' id='perfil-jonatas'>Prof. Marcia </button>
+<button type='button' id='perfil-jonatas'>Prof. Rosilda </button>
+<button type='button' id='perfil-jonatas'>Prof. Sirlene </button>
+<button type='button' id='perfil-jonatas'>Prof. Sandra </button>
+<button type='button' id='perfil-jonatas'>Prof. Josafat </button>
+<button type='button' id='perfil-jonatas'>Prof. Edivaldo </button>
+<button type='button' id='perfil-jonatas'>Prof. Joaquina </button>
+</form>
+</nav>
+<div class='perfil'>
+<h1 id='nome'>Nome Professor</h1>
+<img id='foto-perfil' class='foto-perfil' src='../projeto final/perfil-vazio.png'>
+<h4 id'data_nasc'>Data de Nascimento</h4>
+<h4 id'materia'>Materia</h4>
+<h4 id'atividade'>Tempo em Atividade</h4>
+<h4 id'graduacao'>Graduação</h4>
+<img class='chapa-parcas' src='../projetofinal/perfil-grupo.jpg'>
+<h4 id='bordao'>Bordão</h4>
+<div class="rede-social'>
+<img class='facebook' src='../projetofinal/facebook.png'>
+<img class='instagram' src='../projetofinal/instagram.png'>
+  </body>
+</html>
